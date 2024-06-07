@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1717405639 source:c:\users\frank\c++ programming\wordgame\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<chrono>
+	<thread>
+
